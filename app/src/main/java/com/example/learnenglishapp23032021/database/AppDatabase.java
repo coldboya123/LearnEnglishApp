@@ -1,10 +1,8 @@
 package com.example.learnenglishapp23032021.database;
 
 import android.annotation.SuppressLint;
-import android.app.Application;
 import android.content.Context;
 
-import androidx.annotation.IntRange;
 import androidx.room.Database;
 import androidx.room.Room;
 import androidx.room.RoomDatabase;
