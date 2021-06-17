@@ -1,8 +1,10 @@
-package com.example.learnenglishapp23032021;
+package com.example.learnenglishapp23032021.view;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.example.learnenglishapp23032021.R;
 
 public class MainActivity extends AppCompatActivity {
 
